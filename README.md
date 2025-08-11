@@ -99,4 +99,7 @@ adgm_corporate_agent/
 
 MIT
 
+### Disclamer
+I was unable to run the finished project due to local machine limitations, hence the lack of outputs but i have tested the individual components
+
 
